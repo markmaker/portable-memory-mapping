@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 4.1)
+
 add_library(portable-memory-mapping STATIC
     MemoryMapped.cpp
     MemoryMapped.h
